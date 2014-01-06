@@ -1,0 +1,86 @@
+body {
+    background:url("http://www.melsbrushes.co.uk/wp-content/uploads/2010/08/megastar_paper.jpg");  
+    }
+    
+#header{
+    border-radius: 5px;
+    border: 3px dashed green;
+    background-color: #FFFFCC;
+    position: fixed;
+    z-index: 1;
+    height: 16px;
+    width: 70%;
+    font-family: Helvetica;
+    text-align: center;
+    text-decoration: overline underline;
+    display: block;
+    clear: both;
+    margin-left: 10%;
+  
+        }
+    
+.inter{
+    border-radius: 5px;
+    border: 3px dashed #CCFF33;
+    background-color: #CC99CC;
+    height: 30%;
+    width: 30%;
+    margin-left: 35%;
+    display: inline-block;
+  margin-top: 40px;
+  
+   }
+
+.usual{
+    border-radius: 5px;
+    border: 3px dashed black;
+    background-color: #99CCFF;
+    height: 30%;
+    width: 30%;
+    float: center;
+    display: inline-block;
+    margin-top: 40px;
+	margin-left: 35%;
+ }
+
+#footer{
+    border-radius: 5px;
+    border: 3px dashed #669900;
+    background-color: #99FF99;
+    height: 30%;
+    width: 70%;
+    clear: both;
+     margin-left: 10%;
+     text-align: center;}
+     
+p {
+    font-family: Verdana;
+    font-variant:  small-caps;
+    color: #333333;
+    text-shadow: 2px 2px 3px white;
+    }
+a {
+    font-family: Helvetica;
+    font-variant:  small-caps;
+    color: #333333;
+    text-shadow: 2px 2px 3px white;
+    }	
+a:hover {
+    font-family: Helvetica;
+    font-variant:  small-caps;
+    color: #333333;
+    text-shadow: 2px 2px 3px blue;
+    }
+a:focus {
+    font-family: Verdana;
+    font-variant:  small-caps;
+    color: #333333;
+    text-shadow: 2px 2px 3px green;
+    }	
+	
+h1:nth-last-child(n) {
+background: url("http://timelinecoverbanner.com/wp-content/facebook-covers/2011/11/birthday-party-hat-pattern.jpg");
+color: #333300;
+text-shadow: 3px 3px 5px white;
+text-align: center;
+}
